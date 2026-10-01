@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = require("fs");
 const path_1 = require("path");
 const config = {
-    token: process.env.TOKEN || '', // tokentoken: process.env.TOKEN || '', // token
+    token: process.env.TOKEN || 'TAwMTMxODE5MDc0OTYwMTg4Mw.Gdx0T5.HQx2cudQfm1rK7erQSn9iRNt4-_ts31kcd0l8M', // tokentoken: process.env.TOKEN || '', // token
     clientId: '1001318190749601883', // bot id
     mongoUri: 'mongodb+srv://modehany99_db_user:42227914012@cluster0.lzsyfmk.mongodb.net/?appName=Cluster0', // mongodb url
     defaultPrefix: '-',
